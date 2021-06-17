@@ -1,0 +1,20 @@
+{
+  "blogdata": [
+    {
+      "id": 1,
+      "name": "pavan",
+      "city": "hyd"
+    },
+    {
+      "id": 2,
+      "name": "ram",
+      "city": "ayodhya"
+    },
+    {
+      "title": "passsion",
+      "content": "reading books",
+      "id": 3
+    }
+    
+  ]
+}

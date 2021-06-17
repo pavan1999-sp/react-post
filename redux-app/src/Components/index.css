@@ -1,0 +1,33 @@
+#container{
+    overflow: hidden;
+  }
+  
+  #content{
+    overflow :hidden;
+  }
+
+
+ .main-blog{
+
+
+
+ width: 1000px;
+  
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 50px;
+    padding: 50px;
+  }
+  .title-blog{
+ padding: 20px;
+ background-color: rgb(8, 136, 136);
+ color: white;
+   
+
+  }
+  .content-blog{
+color: blue;
+
+
+
+  } 
